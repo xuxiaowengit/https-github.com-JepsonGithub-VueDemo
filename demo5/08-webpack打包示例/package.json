@@ -20,6 +20,6 @@
     "webpack-dev-server": "^2.11.1"
   },
   "dependencies": {
-    "bootstrap": "^3.3.7"
+    "bootstrap": "^3.4.1"
   }
 }
